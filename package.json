@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://poshea48.github.io/RoboFriends",
+  "homepage": "https://poshea48.github.io/Robofriends",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.1",
